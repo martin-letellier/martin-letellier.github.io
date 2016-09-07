@@ -11,7 +11,7 @@ image: /assets/article_images/2016-07-20-5-tips-to-improve-your-photography-webs
 image2: /assets/article_images/2016-07-20-5-tips-to-improve-your-photography-website/cover.jpg
 ---
 En tant que photographe professionel, votre site web est un de vos outils les plus importants. C'est votre vitrine et vos clients potentiels vont y jeter un oeil avant de prendre la décision de travailler avec vous ou non. 
-C'est également le moyen le plus scalable d'être découvert par de nouveaus clients. C'est votre image de marque en ligne et la première impression que vous donnez aux clients.
+C'est également le moyen le plus extensible d'être découvert par de nouveaus clients. C'est votre image de marque en ligne et la première impression que vous donnez aux clients.
 
 Améliorer votre site web est primordial car cela vous permet de gagner de nouveaux clients, d'être plus professionel et de construire un lien de confiance avec vos futures clients.
 
@@ -71,12 +71,12 @@ Rendez les choses simples et vous verrez que les gens apprécierons votre site e
 # 4. SEO
 
 ![Optimisez votre site pour être découvert par de nouveaux clients.](/assets/article_images/2016-07-20-5-tips-to-improve-your-photography-website/seo.jpg)
-**Votre site est un des moyens les plus scalable de trouver des nouveaux clients**. C'est votre présence en ligne. Mais c'est très dure d'être découvert par de nouveaux visiteurs puisqu'il y a des milliers d'autres sites de photographes. Vous devez donc optimiser votre site pour les moteurs de recherches (comme google), par exemple en choisissant les bons mots clés. 
+**Votre site est un des moyens les plus extensible de trouver des nouveaux clients**. C'est votre présence en ligne. Mais c'est très dure d'être découvert par de nouveaux visiteurs puisqu'il y a des milliers d'autres sites de photographes. Vous devez donc optimiser votre site pour les moteurs de recherches (comme google), par exemple en choisissant les bons mots clés. 
 
 Si vous choisissez "photographe de portrait" comme mot clé, vous allez être en compétition avec tous les autres photographes de portrait. Vous devriez plutôt utiliser quelque chose comme "photographe de portrait professionel original pour startup". Cela s'appelle **long tail keywords** (mots clés longue traîne) et c'est donc plus spécifique à votre business et moins compétitif.
 
 - **Trouvez les mots clés que vos potentiels clients utilisent** pour vous trouvez et utilisez les dans votre site web (à plusieurs reprises).
-*Vous n'avez pas besoin de les utiliser dans le même ordre.. les moteurs de recherches sont très smart, croyez moi ;-)* 
+*Vous n'avez pas besoin de les utiliser dans le même ordre.. les moteurs de recherches sont très intelligents, croyez moi ;-)* 
 - Renseignez correctement les titres, entêtes, titres/alt texte d'images... (avec des mots clés correspondant au contenu de votre page)
 - Remplissez les **meta datas** 
 - Simplifiez le **partage/follow** des réseaux sociaux
