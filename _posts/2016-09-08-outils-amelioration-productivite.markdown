@@ -12,14 +12,14 @@ image2: /assets/article_images/2016-09-08/calendar.jpeg
 ---
 
 Je suis entrepreneur tech depuis plus de 2 ans maintenant. J'essaie d'utiliser les bons outils pour rendre ma vie plus simple et productive. 
-En tant que photographes, vous faites face aux même problèmes : On n'a pas assez de temps pour tout faire et on a beaucoup à faire.
+En tant que photographes, vous faites face aux mêmes problèmes : On n'a pas assez de temps pour tout faire et on a beaucoup à faire.
 
-Dans cet article, je souhaite partager quelques outils que l'on utilise beaucoup en "startup", que tous photographes devraient utiliser également. 
-Finalement, photographe et entrepreneur c'est la même chose : On lance notre business, on doit améliorer notre produit, trouver des client et faire en sorte d'avancer en vidant notre todo list.
+Dans cet article, je souhaite partager quelques outils que l'on utilise beaucoup en "start-up", que tous photographes devraient utiliser également. 
+Finalement, photographe et entrepreneur c'est la même chose : On lance notre business, on doit améliorer notre produit, trouver des clients et faire en sorte d'avancer en vidant notre todo list.
 
 # 1. Réseaux sociaux 
 
-Les réseaux sociaux sont partout. Vos clients sont pour la pluspart sur ces réseaux, vous devez donc y être également présent pour être découvert par vos nouveaux clients. 
+Les réseaux sociaux sont partout. Vos clients sont pour la plupart sur ces réseaux, vous devez donc y être également présent pour être découvert par vos nouveaux clients. 
 En fonction du secteur d'activité, il faut être présent sur Facebook, Instagram, Linkedin .... 
 Gérer toutes ces différentes plateformes est un calvaire. Heureusement certains outils sont là pour rendre la chose plus simple et efficace.
 
@@ -30,9 +30,9 @@ Gérer toutes ces différentes plateformes est un calvaire. Heureusement certain
 Qui ne s'est pas connecté sur les différents réseaux un à un pour publier la même photo avec le même texte?  
 Hootsuite est un super outil permettant d'éviter ce temps perdu car vous vous **connectez à vos différents comptes en un seul endroit** et vous postez sur ces comptes en une seule fois.
 
-Hootsuite permet donc de rester en contact avec ses followers, **programmer des postes**, gérer son contenus à travers les différents réseaux, suivre des influenceurs, suivre les différentes mentions que l'on peut avoir sur Twitter... et ça en **un seul endroit** :-)
+Hootsuite permet donc de rester en contact avec ses followers, **programmer des postes**, gérer son contenu à travers les différents réseaux, suivre des influenceurs, suivre les différentes mentions que l'on peut avoir sur Twitter... et ça en **un seul endroit** :-)
 
-Plus besoin de perdre son temps à se connecter aux différents réseaux sociaux car tout peut être gérer en un seul endroit, si ça c'est pas bien?
+Plus besoin de perdre son temps à se connecter aux différents réseaux sociaux car tout peut être géré en un seul endroit, si ça c'est pas bien?
 
 Ils ont un **plan gratuit** qui permet de gérer jusqu'à 3 comptes. Cela mérite d'être essayé et vous verrez que vous allez **gagner beaucoup de temps**.
 
@@ -41,7 +41,7 @@ Ils ont un **plan gratuit** qui permet de gérer jusqu'à 3 comptes. Cela mérit
 ![Buffer publie vos postes au bon moment sur tous vos réseaux sociaux](/assets/article_images/2016-09-08/buffer.png)
 
 Buffer est l'outil le plus simple pour **publier sur les différents réseaux sociaux au bon moment**. La fonctionnalité principale est de **programmer les postes** pour qu'ils soient publiés au bon moment en **fonction de l'activité de vos followers**. 
-Vous n'avez donc pas à vous demandez à quelle heure c'est le mieux pour poster votre nouveau poste, Buffer s'en occupe pour vous. 
+Vous n'avez donc pas à vous demander à quelle heure c'est le mieux pour poster votre nouveau poste, Buffer s'en occupe pour vous. 
 
 Grâce à une extension, Buffer permet également de partager des infos en un clic. Par exemple si vous aimez un site, en un clic vous pourrez le partager sur vos différents réseaux et au bon moment. 
 
@@ -68,20 +68,20 @@ C'est un très bon moyen pour atteindre plus de monde facilement et sans trop d�
 
 # 2. Comment mieux gérer ses emails
 
-La relation client est très important puisqu'il faut gagner la confiance du client pour le fidéliser et pour qu'ils reviennent acheter des sessions avec vous. 
+La relation client est très importante puisqu'il faut gagner la confiance du client pour le fidéliser et pour qu'ils reviennent acheter des sessions avec vous. 
 L'email est une des méthodes les plus utilisées pour communiquer avec ses clients. En revanche, on en a tellement que cela peut vite devenir un gouffre et faire perdre beaucoup de temps. 
 
 Ici, je vous présente 3 outils que j'utilise régulièrement permettant d'**optimiser sa gestion d'emails** et de gagner du temps.
 
   * [Hubspot Sales][sidekick]{:target="_blank"}
 
-![Comment savoir si le destinataire à lu son mail?](/assets/article_images/2016-09-08/hubspot.png)
+![Comment savoir si le destinataire a lu son mail?](/assets/article_images/2016-09-08/hubspot.png)
 
 
-[Hubspot Sales][sidekick]{:target="_blank"} fait parti de la famille d'Hubspot et est le produit d'appel. Ils ont donc un **plan gratuit** permettant nottament de **tracker ses emails**. 
+[Hubspot Sales][sidekick]{:target="_blank"} fait parti de la famille d'Hubspot et est le produit d'appel. Ils ont donc un **plan gratuit** permettant notamment de **traquer ses emails**. 
 
 Avec une petite extension, vous pouvez très facilement savoir si vos destinataires lisent le mail ou non. 
-Vous allez dire que c'est pas très réglo, mais en fait si car cela vous permet de relancer un client s'il n'a pas vu passer un email important. Vous n'allez donc plus avoir de soucis de client qui n'ont pas vu telle ou telle info car vous allez pouvoir facilement vous en rendre compte et envoyer un rappel. 
+Vous allez dire que ce n’est pas très réglo, mais en fait si car cela vous permet de relancer un client s'il n'a pas vu passer un email important. Vous n'allez donc plus avoir de soucis de client qui n'ont pas vu telle ou telle info car vous allez pouvoir facilement vous en rendre compte et envoyer un rappel. 
 
 Hubspot vous permet donc d'avoir des **notifications de lectures et de clic sur vos emails**. 
 
@@ -94,7 +94,7 @@ Il vous permet également de **programmer l'envoi de vos emails**. C'est une fon
 
 ![Ne jamais oublier de relancer un client qui ne répond pas](/assets/article_images/2016-09-08/boomerang.png)
 
-Un autre outil très intéressant s'appelle [Boomerang][boomerang]{:target="_blank"}. Il vous permet de vous **renvoyer directement dans votre boite mail un rappel si jamais le destinataire n'a pas répondu ou lu votre email**. 
+Un autre outil très intéressant s'appelle [Boomerang][boomerang]{:target="_blank"}. Il vous permet de vous **renvoyer directement dans votre boîte mail un rappel si jamais le destinataire n'a pas répondu ou lu votre email**. 
 Vous n'allez donc jamais oublier de relancer vos clients si jamais vous attendez une réponse rapide. L'attente de la sélection de votre client sera moins longue et vous pourrez travailler sur les photos plus rapidement :-) 
 
 Son utilisation est très simple car il s'agit d'une extension Gmail qui rajoute une petite barre lors de la création d'un mail qui vous permet de configurer le rappel (ex : dans 2 jours si pas de réponse).
@@ -108,9 +108,9 @@ Boomerang ont un **plan gratuit** pour commencer et si vous n'envoyez pas une tr
 
 Si vous utilisez Gmail, vous pouvez soit utiliser l'interface classique, soit [Inbox][inbox]{:target="_blank"}. C'est une nouvelle interface qui va beaucoup plus loin que juste envoyer et recevoir des emails puisqu'elle vous permet de **mieux gérer votre boîte mail**.
 
-Typiquement, cela vous permet de mieux organiser vos conversations et vos rappels pour passer le moins de temps possible sur vos emailS. 
+Typiquement, cela vous permet de mieux organiser vos conversations et vos rappels pour passer le moins de temps possible sur vos emails. 
 Cela vous permet de **remettre le traitement d'un mail à plus tard en un clic en le recevant de nouveaux dans votre boîte mail au moment voulu**.
-Vous pouvez fermer une conversation pour archiver les messages et ne plus être pollué par trop de mails. Vous n'allez donc voir **que les emails importants au moment présent**, tous les autres seront cachés et apparaitrons quand vous souhaitez qu'ils apparaissent. 
+Vous pouvez fermer une conversation pour archiver les messages et ne plus être pollué par trop de mails. Vous n'allez donc voir **que les emails importants au moment présent**, tous les autres seront cachés et apparaîtront quand vous souhaitez qu'ils apparaissent. 
 
 Vous pouvez également gérer votre **todo liste** directement de votre boîte mail et vous recevrez des rappels pour de pas oublier d'effectuer telle ou telle tâche. 
 
@@ -135,9 +135,3 @@ Au plaisir d'en discuter
 [boomerang]: http://www.boomeranggmail.com/fr/
 [sidekick]: http://www.hubspot.com/products/sales/email-tracking
 [inbox]: https://www.google.com/inbox/
-
-
-
-
-
-
