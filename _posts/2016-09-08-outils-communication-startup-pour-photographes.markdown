@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "outils de startups que tous photographes devraient utiliser pour améliorer sa productivité"
+title:  "Outils de communication de startups pour photographes"
 date:   2016-09-08 18:45:00
 categories: outils
-tags: online
+tags: outil en ligne communication startup photographe
 published: true
 lang: fr
 ref: startuptool
@@ -14,7 +14,7 @@ image2: /assets/article_images/2016-09-08/calendar.jpeg
 Je suis entrepreneur tech depuis plus de 2 ans maintenant. J'essaie d'utiliser les bons outils pour rendre ma vie plus simple et productive. 
 En tant que photographes, vous faites face aux mêmes problèmes : On n'a pas assez de temps pour tout faire et on a beaucoup à faire.
 
-Dans cet article, je souhaite partager quelques outils que l'on utilise beaucoup en "start-up", que tous photographes devraient utiliser également. 
+Dans cet article, je souhaite partager quelques outils que l'on utilise beaucoup en "start-up", que tous photographes pourraient utiliser également. 
 Finalement, photographe et entrepreneur c'est la même chose : On lance notre business, on doit améliorer notre produit, trouver des clients et faire en sorte d'avancer en vidant notre todo list.
 
 # 1. Réseaux sociaux 

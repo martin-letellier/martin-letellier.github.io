@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Startup tools that photographers should use to improve productivity"
+title:  "Startup communication tools for photographers"
 date:   2016-09-08 18:45:00
 categories: tools
-tags: online
+tags: online tools startup communication photographer
 published: true
 lang: en
 ref: startuptool
